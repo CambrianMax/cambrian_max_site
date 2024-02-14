@@ -1,0 +1,44 @@
+
+body {
+
+	margin: 0;
+	padding: 0;
+	background: url("bg_tile_5.bmp");
+	background-repeat: repeat;
+	color: white;
+}
+
+.banner {
+	background: url("banner_2.bmp");
+	background-repeat: repeat;
+	color: white;
+	padding: 10px 0;
+	text-align: center;
+	width: 100%;
+}
+
+.content {
+	padding:10px 100px;
+} 
+
+h1, h2, h3{
+
+	width: 100%;
+	color: #cc3069;
+}
+
+a {
+    color: rgb(246, 247, 171); /* Default link color */
+}
+a:visited {
+    color: rgb(3, 132, 184); /* Color for visited links */
+}
+a:hover {
+    color: rgb(255, 94, 0); /* Color for hovered links */
+}
+
+.boxed-text {
+    border: 1px solid rgb(138, 174, 221); /* Border with 2px width and solid black color */
+    padding: 10px; /* Padding inside the box */
+    display: inline-block; /* Display as inline block to fit content */
+}
