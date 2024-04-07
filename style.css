@@ -17,6 +17,16 @@ body {
 	width: 100%;
 }
 
+.banner2 {
+	background-color: rgb(1, 2, 17);
+	background-repeat: repeat;
+	color: rgb(2, 6, 44);
+	padding: 10px 0;
+	text-align: center;
+	width: 100%;
+}
+
+
 .content {
 	padding:10px 100px;
 } 
